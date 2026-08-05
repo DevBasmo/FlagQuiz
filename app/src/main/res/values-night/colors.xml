@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dark mode text + background -->
+    <color name="text_color">#F1F5F9</color>
+    <color name="learneveryflagonline">#94A3B8</color>
+    <color name="background_color">#121212</color>
+    <color name="playnow">#94A3B8</color>
+    <color name="homebtntint">#60A5FA</color>
+    <color name="toolbar_background">#121212</color>
+    <color name="homedivider">#334155</color>
+    <color name="correct_answer">#22C55E</color>
+    <color name="incorrect_answer">#F87171</color>
+    <color name="resetcolor">#F87171</color>
+    <color name="correct_green">#66BB6A</color>
+    <color name="wrong_red">#EF5350</color>
+
+    <color name="accent_blue">#60A5FA</color>
+    <color name="button_white">#1E293B</color>
+    <color name="button_text_dark">#F1F5F9</color>
+    <color name="button_border">#334155</color>
+    <color name="appearancetextcolor">#94A3B8</color>
+    <color name="pure_light_bg">#F5F7FA</color>
+    <color name="pure_dark_bg">#121212</color>
+    <color name="progress_bg_color">#334155</color>
+
+    <color name="card_bg_light">#1E293B</color>
+    <color name="card_border_light">#334155</color>
+    <color name="timer_blue">#60A5FA</color>
+    <color name="timer_amber">#FBBF24</color>
+    <color name="timer_red">#F87171</color>
+</resources>
