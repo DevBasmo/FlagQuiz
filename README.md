@@ -27,7 +27,7 @@ Every screen was built with intention: real geographic data, a persistent statis
 
 ![Quiz (Timed)](Screenshots/TimedQuiz.jpeg).
 
-![Statisitics](Screenshots/Statisitic.jpeg).
+![Statisitics](Screenshots/Statistic.jpeg).
 
 ![Settings](Screenshots/Settings.jpeg).
 
