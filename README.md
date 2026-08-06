@@ -22,15 +22,22 @@ Every screen was built with intention: real geographic data, a persistent statis
 - **100% offline** — every flag and every byte of data lives on-device; no network calls, no ads, no tracking
 
 ##  Screenshots
-
+###  Home  Screen 
 ![Home Screen](Screenshots/Home.jpeg)
 
+###  Timed Quiz
 ![Quiz (Timed)](Screenshots/TimedQuiz.jpeg).
 
-![Statisitics](Screenshots/Statistic.jpeg).
+###  Statistics
+![Statistics](Screenshots/Statistic.jpeg).
 
+###  Explore
+![Explore](Screenshots/Explore.jpeg)
+
+###  Settings
 ![Settings](Screenshots/Settings.jpeg).
 
+###  Dark Mode
 ![Dark Mode](Screenshots/DarkMode.jpeg).
 
 
