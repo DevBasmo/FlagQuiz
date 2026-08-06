@@ -84,7 +84,7 @@ Flag assets are organized by region under `assets/`, with each filename followin
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/DevBasmo/FlagQuizGame.git
+   git clone https://github.com/DevBasmo/FlagQuiz.git
    ```
 2. Open the project in Android Studio
 3. Let Gradle sync (this may take a moment on first open)
