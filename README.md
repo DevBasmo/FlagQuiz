@@ -1,6 +1,6 @@
 #  Flag Quiz Game
 
-A native Android app for learning country flags through interactive, continent based quizzes  with timed rounds, a persistent stats dashboard, and full dark mode support. Built entirely offline.
+A native Android app for learning country flags through interactive, continent-based quizzes, with timed rounds, a persistent stats dashboard, and full dark mode support. Built entirely offline.
 
 
 
@@ -26,19 +26,19 @@ Every screen was built with intention: real geographic data, a persistent statis
 ![Home Screen](Screenshots/Home.jpeg)
 
 ###  Timed Quiz
-![Quiz (Timed)](Screenshots/TimedQuiz.jpeg).
+![Quiz (Timed)](Screenshots/TimedQuiz.jpeg)
 
 ###  Statistics
-![Statistics](Screenshots/Statistic.jpeg).
+![Statistics](Screenshots/Statistic.jpeg)
 
 ###  Explore
 ![Explore](Screenshots/Explore.jpeg)
 
 ###  Settings
-![Settings](Screenshots/Settings.jpeg).
+![Settings](Screenshots/Settings.jpeg)
 
 ###  Dark Mode
-![Dark Mode](Screenshots/DarkMode.jpeg).
+![Dark Mode](Screenshots/DarkMode.jpeg)
 
 
 ##  Built With
@@ -55,8 +55,8 @@ Every screen was built with intention: real geographic data, a persistent statis
 The app is structured around a small number of focused Activities rather than a single monolithic screen:
 
 ```
-├── splashActivity              → App entry point
-├── homeActivity                → Main navigation hub
+├── SplashActivity              → App entry point
+├── HomeActivity                → Main navigation hub
 ├── ContinentSelectActivity     → Shared region-picker (Explore + Custom Quiz)
 ├── ExploreActivity             → Browse-only flag gallery
 ├── FlagListActivity            → Flag grid for a selected region
@@ -77,8 +77,8 @@ Flag assets are organized by region under `assets/`, with each filename followin
 ### Prerequisites
 
 - Android Studio (recent stable version)
-- Android SDK, API level matching the project's `compileSdk`
-- A device or emulator running Android 8.1+ 
+- Android SDK 36
+- A device or emulator running Android 7.0 (API 24) or later 
 
 ### Installation
 
@@ -88,7 +88,7 @@ Flag assets are organized by region under `assets/`, with each filename followin
    ```
 2. Open the project in Android Studio
 3. Let Gradle sync (this may take a moment on first open)
-4. Run the app on an emulator or physical device via **Run **
+4. Run the app on an emulator or physical device via **Run**
 
 No API keys, no backend setup, and no environment configuration required — the app runs entirely from local assets.
 
@@ -115,7 +115,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ##  Author
 
-**Basmo**
+**Basit Amidu (DevBasmo)**
 Android Developer — Lagos, Nigeria
 
 - X (Twitter): [@ItzBasmo](https://x.com/ItzBasmo)
